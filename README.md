@@ -21,4 +21,3 @@
 2. Go to the SQL tab.
 3. Paste the contents of [coursework2/schema.sql](coursework2/schema.sql) and Execute.
 4. Optionally repeat for [coursework2/data.sql](coursework2/data.sql) and [coursework2/queries.sql](coursework2/queries.sql).
-# php-coursework2-normalization-sql
